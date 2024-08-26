@@ -90,7 +90,8 @@
 30. The document was signed off by all parties involved, and the contract is now in effect.
     文件已由所有参与方签字同意，合同现在生效了。
 
-31. The new policy is ready for implementation, and we expect to see positive results soon.新政策已经准备好实施，我们期待不久将看到积极的结果。
+31. The new policy is ready for implementation, and we expect to see positive results soon.
+    新政策已经准备好实施，我们期待不久将看到积极的结果。
 
 32. The new tool is designed to make developers happier by simplifying the coding process.
     这个新工具旨在通过简化编码过程来让开发者更快乐。
@@ -113,8 +114,8 @@
 38. React does not prescribe a specific way to manage state, so you can choose the library that fits your needs.
     React 不规定特定的状态管理方式，所以你可以选择适合你需求的库。
 
-39. In the simplest case, you just need to add a <link> tag to include the CSS file."
-    在最简单的情况下，你只需要添加一个<link>标签来包含 CSS 文件。
+39. In the simplest case, you just need to add a \<link\> tag to include the CSS file."
+    在最简单的情况下，你只需要添加一个\<link\>标签来包含 CSS 文件。
 
 40. If you're using a build tool like Webpack, consult its documentation for instructions on how to configure your project."
     如果你正在使用像 Webpack 这样的构建工具，请查阅其文档了解如何配置你的项目。
