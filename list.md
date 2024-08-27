@@ -72,3 +72,15 @@
 70. parent component 父组件
 71. put ... into practice: 将...付诸实践。
 72. tutorial 教程
+73. does not assume: 不假定，不预设。
+74. existing knowledge: 现有知识，指学习者在开始新学习之前已经掌握的知识。
+75. fundamental to: 对...至关重要，基本的。
+76. fully understanding: 完全理解，强调对知识或技能的深入掌握。
+77. doesn’t make sense: 难以理解，强调代码对于个人来说不够清晰或难以把握。
+78. accessible: 可访问的，能够被获取或使用。
+79. defines a function: 定义一个函数
+80. change how you think: 改变你的思考方式，强调 React 对思维方式的影响。
+81. break it apart into pieces: 将其分解成部分，描述了设计分解的过程。
+82. describe the different visual states: 描述不同的视觉状态，指为组件定义不同的外观。
+83. connect your components together: 将你的组件连接起来，指组件之间的数据和逻辑连接。
+3. hierarchy 等级，层级
