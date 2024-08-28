@@ -83,4 +83,5 @@
 81. break it apart into pieces: 将其分解成部分，描述了设计分解的过程。
 82. describe the different visual states: 描述不同的视觉状态，指为组件定义不同的外观。
 83. connect your components together: 将你的组件连接起来，指组件之间的数据和逻辑连接。
-3. hierarchy 等级，层级
+84. hierarchy 等级，层级
+85. dive into 深入研究、积极参与
