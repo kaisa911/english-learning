@@ -599,3 +599,33 @@
 
 200. In the React development process, you break the interface apart into components, describe their visual states, and then connect them to create a cohesive user experience.
      在 React 开发过程中，你将界面分解成组件，描述它们的视觉状态，然后将它们连接起来，以创造一个协调一致的用户体验。
+
+201. The poet's toes get out of his shoes. Here heroes are zeros.
+     诗人的脚趾露出了鞋子。在这里英雄无足轻重。
+
+202. The conductor is reluctant to reduce the conductivity of the semiconductor.
+     这个指挥不情愿降低半导体的导电率。
+
+203. Her boyfriend fed a box of oxygen and hydrogen to the ox and fox.
+     她男朋友给牛和狐狸喂了一盒子氧和氢。
+
+204. The room is lumbered with numerous cucumbers.
+     房间里乱堆着大量黄瓜。
+
+205. The member of good memory always remembers to commemorate his friend with memorials.
+     那位记性非常好的成员，一直记得用纪念品来纪念他的朋友。
+
+206. The anxious man is unconscious of my anxiety.
+     那个不安的人没有觉察到我的忧虑。
+
+207. That person personally persuaded the Personnel with persuasive words.
+     那个人用有说服力的话亲自说服了人事部门。
+
+208. In this climate, the climber climbed up the cliff with his stiff limbs.
+     在这种气候下，攀登者用僵硬的四肢爬上了悬崖。
+
+209. We become defensive when criticised, and apply negative stereotypes to others to boost our own esteem.
+     一旦受到批评，我们就会为自己辩护，并将他人定格为负面的老套形象，以此增强自己的自尊心。
+
+210. Devoted concertgoers who reply that recordings are no substitute for live performance are missing the point
+     那些忠诚的音乐会听众回应说现场演出绝非是唱片所能替代的，可这些听众没有领会到问题的关键点。
